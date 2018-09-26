@@ -1,0 +1,1 @@
+javascript:function enterLogin(){username="lzhang3";password="Smooth@nab";document.getElementById('Enter user name').value=username;y=document.getElementById('passwd').value=password;document.getElementById('passwd1').value='4825';document.getElementsByName('domainvalue')[0].options[1].selected=true ;}enterLogin();
